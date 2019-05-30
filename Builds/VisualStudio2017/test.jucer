@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT name="TreeViewTest" >
+  <MAINGROUP name="TreeViewTest">
+    <GROUP name="Source">
+      <FILE  name="MainComponent.h"  file="Source/MainComponent.h"/>
+      <FILE  name="MainComponent.cpp" file="Source/MainComponent.cpp"/>
+      <FILE name="Main.cpp" file="Source/Main.cpp"/>
+    </GROUP>
+  </MAINGROUP>
+</JUCERPROJECT>
